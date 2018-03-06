@@ -1,0 +1,35 @@
+body{
+
+}
+video{
+  width: 100%;
+  height: auto;
+  float: auto;
+}
+p{
+  font-size: 50px;
+  float: right;
+
+}
+li{
+  float: right;
+  font-size: 30px;
+
+font-family: arial
+}
+.right{
+  float: right;
+  width: 50%;
+  height: auto;
+}
+.left{
+  float: left;
+  width: 50%;
+  height: auto;
+}
+.Ten{
+  float: center;
+  width: 100%;
+  height:auto; 
+
+}
