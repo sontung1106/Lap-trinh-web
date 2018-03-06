@@ -1,0 +1,65 @@
+body{
+
+}
+video{
+  width: 100%;
+  height: auto;
+  float: auto}
+p{
+  font-size: 50px;
+  font-family: monospace;
+
+
+}
+li{
+  float: right;
+  font-size: 30px;
+;
+font-family: strong;
+}
+
+
+.anh1 img{
+  float: left;
+  width: 24%;
+  height: 300px;
+  margin-right:1%;
+}
+.anh6 img{
+  float: left;
+  width: 24%;
+  height: 300px;
+  margin-top: 14px;
+
+}
+.anh2 img{
+  float: left;
+  width: 24%;
+  height: 300px;
+  margin-right:1%;
+
+
+}
+.anh3 img{
+  float: right;
+  width: 24%;
+  height: 300px;
+  margin-right:1%;
+
+
+}
+.anh4 img{
+  float: right;
+  width: 24%;
+  height: 300px;
+  margin-right:1%;
+
+}
+.anh5 img{
+margin-top: 14px;
+  margin-right:1%;
+
+  float: left;
+  width: 24%;
+  height: 300px;
+}
